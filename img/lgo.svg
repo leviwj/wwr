@@ -23,24 +23,57 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.7560799"
-     inkscape:cx="347.64933"
-     inkscape:cy="181.36988"
+     inkscape:zoom="0.98791756"
+     inkscape:cx="120.45539"
+     inkscape:cy="728.29963"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       style="fill:#210203;stroke-width:1.00157;stroke-opacity:0.5"
+       id="path1430"
+       sodipodi:type="arc"
+       sodipodi:cx="57.848957"
+       sodipodi:cy="202.20354"
+       sodipodi:rx="23.300274"
+       sodipodi:ry="23.300274"
+       sodipodi:start="0"
+       sodipodi:end="6.282084"
+       sodipodi:arc-type="slice"
+       d="m 81.149231,202.20354 a 23.300274,23.300274 0 0 1 -23.293859,23.30027 23.300274,23.300274 0 0 1 -23.306685,-23.28744 23.300274,23.300274 0 0 1 23.281024,-23.3131 23.300274,23.300274 0 0 1 23.319506,23.27461 l -23.30026,0.0257 z" />
+    <path
+       style="fill:#cccccc;stroke:#cccccc;stroke-width:1.00157;stroke-opacity:0.5"
+       id="path1230"
+       sodipodi:type="arc"
+       sodipodi:cx="57.848969"
+       sodipodi:cy="-202.20354"
+       sodipodi:rx="22.251537"
+       sodipodi:ry="22.251537"
+       sodipodi:start="0"
+       sodipodi:end="6.282084"
+       sodipodi:arc-type="slice"
+       d="m 80.100506,-202.20354 a 22.251537,22.251537 0 0 1 -22.245411,22.25154 22.251537,22.251537 0 0 1 -22.25766,-22.23928 22.251537,22.251537 0 0 1 22.233154,-22.26379 22.251537,22.251537 0 0 1 22.269903,22.22703 l -22.251523,0.0245 z"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#210203;stroke-width:0.201617;stroke-opacity:0.5"
+       id="rect852"
+       width="101.00768"
+       height="36.813038"
+       x="1.5794886"
+       y="130.09348" />
     <g
        id="g7573"
-       transform="translate(81.661528,-64.485486)"
+       transform="translate(85.212837,42.131809)"
        inkscape:export-filename="C:\Users\leviw\Documents\school\wdd130\wwr\img\logodark.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -62,30 +95,33 @@
            y="108.6543">UPSTREAM</tspan></text>
     </g>
     <g
-       id="g8007"
-       transform="translate(1.7256797,1.2080646)"
-       inkscape:export-filename="C:\Users\leviw\Documents\school\wdd130\wwr\img\logolight.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g8001">
-        <path
-           style="fill:#6d98ba;fill-opacity:1;stroke:none;stroke-width:0.509628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
-           d="m 2.074902,44.11475 c 8.035219,-7.76731 19.982555,-2.50142 28.926485,0.60602 10.163493,2.82914 17.942482,-4.44806 26.42516,-7.90713 8.323121,-2.955221 19.107308,-3.080771 25.639408,3.35104 C 72.658805,34.000589 59.396174,38.64824 50.490076,45.05497 40.805072,50.81164 28.246511,48.06045 18.350667,43.37817 13.083993,41.83442 7.028771,41.49113 2.074902,44.11475 Z"
-           id="path7575"
-           sodipodi:nodetypes="sssscss" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="6.6306672"
-         y="43.867477"
-         id="text7579"><tspan
-           sodipodi:role="line"
-           id="tspan7577"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-           x="6.6306672"
-           y="43.867477">UPSTREAM</tspan></text>
+       id="g8001"
+       transform="translate(9.5129023,106.91863)">
+      <path
+         style="fill:#6d98ba;fill-opacity:1;stroke:none;stroke-width:0.509628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
+         d="m 2.074902,44.11475 c 8.035219,-7.76731 19.982555,-2.50142 28.926485,0.60602 10.163493,2.82914 17.942482,-4.44806 26.42516,-7.90713 8.323121,-2.955221 19.107308,-3.080771 25.639408,3.35104 C 72.658805,34.000589 59.396174,38.64824 50.490076,45.05497 40.805072,50.81164 28.246511,48.06045 18.350667,43.37817 13.083993,41.83442 7.028771,41.49113 2.074902,44.11475 Z"
+         id="path7575"
+         sodipodi:nodetypes="sssscss" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.14357"
+       y="150.7861"
+       id="text7579"><tspan
+         sodipodi:role="line"
+         id="tspan7577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="16.14357"
+         y="150.7861">UPSTREAM</tspan></text>
+    <g
+       id="g940"
+       transform="matrix(0.50409057,0,0,1.3587535,36.754756,146.98675)">
+      <path
+         style="fill:#6d98ba;fill-opacity:1;stroke:none;stroke-width:0.509628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
+         d="m 2.074902,44.11475 c 8.035219,-7.76731 19.982555,-2.50142 28.926485,0.60602 10.163493,2.82914 17.942482,-4.44806 26.42516,-7.90713 8.323121,-2.955221 19.107308,-3.080771 25.639408,3.35104 C 72.658805,34.000589 59.396174,38.64824 50.490076,45.05497 40.805072,50.81164 28.246511,48.06045 18.350667,43.37817 13.083993,41.83442 7.028771,41.49113 2.074902,44.11475 Z"
+         id="path938"
+         sodipodi:nodetypes="sssscss" />
     </g>
   </g>
 </svg>

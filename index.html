@@ -9,7 +9,7 @@
 <body>
     <div id="content">
         <header>
-            <a href="index.html"><img src="img/logodark.webp" alt="Upstream Logo" width="400" height="80"/></a>
+            <a id="logo_link" href="index.html"><img src="img/logodark.webp" alt="Upstream Logo"/></a>
             <nav>
                 <a href="index.html">Home</a>
                 <a href="siteplan.html">Site Plan</a>
@@ -18,46 +18,47 @@
             </nav>
         </header>
 
-        <main>
-            <div id="hero">
-                <div id="hero-img">
-                    <img src="img/hero.webp" width="1024" height="682" alt="Banner"/>
-                </div>
-                <section id="hero-msg">
-                    <h1>Make a splash</h1>
-                    <h4>Schedule an adventure now</h4>
-                    <a href="services.html">
-                        <input type="button" value="Book Now"/>
-                    </a>
-                </section>
+        <div id="hero">
+            <div id="hero-box">
+                <img src="img/hero.webp" id="hero-img" alt="Banner"/>
             </div>
+            <section id="hero-msg">
+                <h1 class="home-title">Make a splash</h1>
+                <h4>Schedule an adventure now</h4>
+                    <div class="button-box">
+                        <a class="book" href="services.html">Book Now</a>
+                    </div>
+                </a>
+            </section>
+        </div>
 
-            <section class="product-card">
-                <img src="img/rivers.webp" class="card-img" width="500" height="500"/>
-                <img src="img/river_icon.webp" class="icon"/>
+        <main class="home-grid">
+            <section class="rivers-card">
+                <img class="mountain" src="img/rivers.webp" alt="rivers">
+                <img class="river" src="img/river_icon.webp" alt="river icon">
                 <h2>Rivers</h2>
             </section>
-            <section class="product-card">
-                <img src="img/camping.webp" class="card-img" width="500" height="500"/>
-                <img src="img/fire_icon.webp" class="icon"/>
+            <section class="camping-card">
+                <img class="camp" src="img/camping.webp" alt="camping">
+                <img class="fire" src="img/fire_icon.webp" alt="fire icon">
                 <h2>Camping</h2>
             </section>
-            <section class="product-card">
-                <img src="img/rapids.webp" class="card-img" width="500" height="500"/>
-                <img src="img/oars.webp" class="icon"/>
+            <section class="rapids-card">
+                <img class="boat" src="img/rapids.webp" alt="rapids">
+                <img class="oars" src="img/oars.webp" alt="oars icon">
                 <h2>Rapids</h2>
             </section>
-            <div id="background"></div>
+            <article id="background"></article>
             <img class="mountains" src="img/mountains.webp" alt="Misty mountains">
-            <section class="msg">
+            <div class="msg">
                 <h2>More Than Just The Thrill</h2>
                 <p>Enjoy the breathtaking scenery. From valleys, meadows, canyons, and high peaks; it's way more than just the rapids. It's a great way to get away from it all and relax amongst all the beauty of the great outdoors. </p>
-                <a class='join' href="rivers.html">Join Us</a>
-            </section>
+                <a class='join' href="services.html">Join Us</a>
+            </div>
         </main>
 
         <footer>
-            <h3>2021 - Levi Jones</h3>
+            <h3>&#169;2021 - Levi Jones</h3>
             <h3><a href="siteplan.html">Site Plan</a></h3>
             <h3><a href="contact.html">Contact Us</a></h3>
             <div class="social">
